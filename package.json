@@ -1,16 +1,16 @@
 {
-"name": "gt99bet",
-"theme": "gt99bet",
-"version": "6.3.7",
-"description": "gt99bet สมัครเว็บบาคาร่าเว็บตรง อันดับ 1 แจกโบนัสเครดิตฟรี",
-"keywords": [
-"gt99bet",
-"gt99bet เครดิตฟรี",
-"gt99bet ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/gt99bet",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "gt99bet",
+  "theme": "gt99bet",
+  "version": "6.4.0",
+  "description": "gt99bet สมัครเว็บบาคาร่าเว็บตรง อันดับ 1 แจกโบนัสเครดิตฟรี",
+  "keywords": [
+    "gt99bet",
+    "gt99bet เครดิตฟรี",
+    "gt99bet ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/gt99bet",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
